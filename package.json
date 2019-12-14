@@ -1,0 +1,29 @@
+{
+  "name": "seda-demir",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seda": "echo 'Benim adım seda'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Seda Demir",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.8.1",
+    "nodemailer": "^6.4.2",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sedanurdmr/seda-demir.git"   
+  }
+}
